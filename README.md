@@ -1,6 +1,6 @@
 # Computer Vision I materials
 
-This repository contains labratory (practical) works that were conducted for the computer vision I course at the University of Amsterdam. 
+This repository contains labratory (practical) works that were conducted for the computer vision I course at the University of Amsterdam. Each sub-folder will contain run.m that can be used to run corresponding program. 
 
 ## Course description
 Digital cameras have become ubiquitous in the form of consumer cameras, webcams, mobile phones, and professional cameras. These cameras yield enormous streams of data and provide the means for communication, observation, and interaction. In this course, image understanding is addressed with the focus on core vision tasks of scene understanding and object recognition.
